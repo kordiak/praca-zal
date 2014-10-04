@@ -1,4 +1,4 @@
 praca-zal
 =========
 
-Praca zaliczeniowa BP
+Praca zaliczeniowa z biznesPlanu
