@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 94f6aaad0a1d2534ca013fa98fd2d7f0
+timeCreated: 1428180582
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature.001
+    100004: Armature.002
+    100006: Armature.003
+    100008: Bone
+    100010: Bone.001
+    100012: Bone.001_end
+    100014: Cylinder
+    100016: //RootNode
+    100018: Torus
+    100020: Torus.002
+    400000: Armature
+    400002: Armature.001
+    400004: Armature.002
+    400006: Armature.003
+    400008: Bone
+    400010: Bone.001
+    400012: Bone.001_end
+    400014: Cylinder
+    400016: //RootNode
+    400018: Torus
+    400020: Torus.002
+    4300000: Torus.002
+    4300002: Torus
+    4300004: Cylinder
+    7400000: Armature.003|Armature.002Action
+    7400002: Armature.003|CubeAction
+    7400004: Armature.003|CubeAction.001
+    7400006: Armature.003|righMove
+    7400008: Armature.003|right.001
+    7400010: Armature.003|right.002
+    7400012: Armature.003|right.003
+    7400014: Armature.003|right.004
+    7400016: Armature.003|rotRight
+    7400018: Torus.002|CubeAction
+    7400020: Torus.002|CubeAction.001
+    7400022: Torus.002|righMove
+    7400024: Torus.002|right.001
+    7400026: Torus.002|right.002
+    7400028: Torus.002|right.003
+    7400030: Torus.002|right.004
+    7400032: Torus|CubeAction
+    7400034: Torus|CubeAction.001
+    7400036: Torus|righMove
+    7400038: Torus|right.001
+    7400040: Torus|right.002
+    7400042: Torus|right.003
+    7400044: Torus|right.004
+    7400046: Cylinder|CubeAction
+    7400048: Cylinder|CubeAction.001
+    7400050: Cylinder|righMove
+    7400052: Cylinder|right.001
+    7400054: Cylinder|right.002
+    7400056: Cylinder|right.003
+    7400058: Cylinder|right.004
+    7400060: Armature.002|CubeAction
+    7400062: Armature.002|CubeAction.001
+    7400064: Armature.002|righMove
+    7400066: Armature.002|right.001
+    7400068: Armature.002|right.002
+    7400070: Armature.002|right.003
+    7400072: Armature.002|right.004
+    7400074: Armature|CubeAction
+    7400076: Armature|CubeAction.001
+    7400078: Armature|righMove
+    7400080: Armature|right.001
+    7400082: Armature|right.002
+    7400084: Armature|right.003
+    7400086: Armature|right.004
+    7400088: Armature.001|CubeAction
+    7400090: Armature.001|CubeAction.001
+    7400092: Armature.001|righMove
+    7400094: Armature.001|right.001
+    7400096: Armature.001|right.002
+    7400098: Armature.001|right.003
+    7400100: Armature.001|right.004
+    7400102: Armature|righMove0
+    7400104: Armature.003|righMove0
+    7400106: Armature.003|rotRight0
+    7400108: Armature.003|rotRight1
+    9500000: //RootNode
+    13700000: Cylinder
+    13700002: Torus
+    13700004: Torus.002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature.003|rotRight
+      takeName: Armature.003|rotRight
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature.001
+        weight: 1
+      - path: Armature.002
+        weight: 1
+      - path: Armature.003
+        weight: 1
+      - path: Armature.003/Bone
+        weight: 1
+      - path: Armature.003/Bone/Bone.001
+        weight: 1
+      - path: Armature.003/Bone/Bone.001/Bone.001_end
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Torus
+        weight: 1
+      - path: Torus.002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: mya
+  assetBundleVariant: rm
